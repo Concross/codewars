@@ -9,3 +9,4 @@ Sam Harris => S.H
 Patrick Feeney => P.F
 
 link: https://www.codewars.com/kata/abbreviate-a-two-word-name/train/javascript
+
