@@ -1,0 +1,1 @@
+double = arr => arr.map(item => item * 2);
