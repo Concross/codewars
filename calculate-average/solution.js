@@ -1,0 +1,1 @@
+find_average = array => array.reduce((acc, curr) => acc + curr)/array.length;
